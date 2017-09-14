@@ -1,0 +1,7 @@
+#successImg{  
+    width: 58px;  
+    height: 58px;  
+    margin: 0px auto;  
+    background: url("../img/successIcon.png") no-repeat ;  
+    border:none;  
+}
